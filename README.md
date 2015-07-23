@@ -2,8 +2,8 @@
 
 This repo contains the code to evaluate the spreadsheets cells. 
 
-Cell may be (1)numbers, (2)basic binary operations (+, -, *, /), or (3) references to other cells.
-The references will be of the form <column><row>, where <column> is a capital letter, and <row> is a positive integer.
+Cell may be (1) numbers, (2) basic binary operations (+, -, *, /), or (3) references to other cells.
+The references will be of the form \<column\>\<row\>, where \<column\> is a capital letter, and \<row\> is a positive integer.
 
 After evaluating the cells read from inputfile, new spreadsheets with fully solved values will be written to the OUTPUTFILE.
 
